@@ -1,17 +1,5 @@
-body{
-    {
-     
-       #section1{
-        background-color: lightblue;
-        margin: 5px;
-        padding: 3px;
-     }
-     #section2{
-        background-color: lightcoral;
-        margin: 5px;
-        padding: 3px;
-    }
-
-}
+html{
+    font-family: 'Glass Antiqua', cursive;
+    font-family: 'Sofia Sans Semi Condensed', sans-serif;
      
   
